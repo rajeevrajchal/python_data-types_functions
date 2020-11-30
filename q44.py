@@ -1,0 +1,5 @@
+tup = (34, 5,2, 6, 2, 78, 4, 67, 34)
+print("Before slicing", tup)
+print("Slicing first part", tup[4:])
+print("Slice middle part", tup[3:5])
+print("Slice last part", tup[5:])
